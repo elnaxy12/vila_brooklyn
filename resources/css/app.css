@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+.wrapper {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.full-navbar .container {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px auto;
+}
+
+.full-navbar .container .col-1 {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin: 0;
+}
+
+.full-navbar .container .col-2 {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin: 0;
+}
+
+.full-navbar .container .col-1 p {
+    cursor: default;
+}
+
+.full-navbar .container .col-2 a {
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+}
+
+.full-navbar .container .col-1 img {
+    border-radius: 50%;
+    cursor: default;
+}
