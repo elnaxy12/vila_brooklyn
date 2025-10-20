@@ -28,6 +28,7 @@
 </head>
 
 <body>
+    <!-- Navbar -->
     <div class="full-navbar">
         <div class="container">
             <div class="col-1">
@@ -42,6 +43,7 @@
             </div>
         </div>
     </div>
+    
     <div class="wrapper">
         <div class="container">
 
