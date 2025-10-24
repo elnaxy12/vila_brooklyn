@@ -38,7 +38,7 @@
     <div class="full-navbar">
         <div class="container">
             <div class="col-1">
-                <img src="{{ asset('images/vila-brooklyn.jpg') }}" alt="Logo Vila" width="60">
+                <img src="{{ asset('images/vila-brooklyn.png') }}" alt="Logo Vila" width="60">
                 <p>Vila Brooklyn</p>
             </div>
             <div class="col-2">
@@ -289,6 +289,38 @@
                 </div>
             </div>
         </div>
+
+        <!-- Footer Section -->
+        <div class="container footer-section">
+            <div class="col-1">
+                <p>VILA BROOKLYN</p>
+                <P>Jl. Pakancilan no 8
+                    <br>RT.04/RW.04
+                    <br>Kuta, Megamendung
+                    <br>Bogor - Jawa Barat 16770
+                    <br>INDONESIA
+                </P>
+            </div>
+            <div class="col-2">
+                <p>Contact Person</p>
+                <p>
+                    <br>NIKO | 0811-889-858 (kavling)
+                    <br>ADMIN SEWA VILLA | 0811-9651-0289
+                </p>
+            </div>
+            <div class="col-3">
+                <p>Find Us On</p>
+                <div class="media-social">
+                    <img width="45" height="45" src="https://img.icons8.com/ios/50/instagram-new--v1.png"
+                        alt="instagram-new--v1" />
+                    <img width="45" height="45" src="https://img.icons8.com/ios/50/facebook-new.png"
+                        alt="facebook-new" />
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer">
+        <p>&copy; 2025 Vila Brooklyn. All rights reserved.</p>
     </div>
 </body>
 
